@@ -93,7 +93,7 @@ Flyway aplicará tudo automaticamente na inicialização.
 
 ▶️ Como Executar o Projeto
 
-Clone o repositório git clone ( https://github.com/rodrigopousada/Drytech.git )
+Clone o repositório git clone ( [https://github.com/rodrigopousada/Drytech.git](https://github.com/Gabrielalveztech/Drytech) )
 
 Abra a IDE
 
